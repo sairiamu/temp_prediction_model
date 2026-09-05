@@ -1,0 +1,5 @@
+[
+  { "timestamp": "2026-09-05T08:00:00Z", "value": 22.1, "score": 0.08, "isAnomaly": false },
+  { "timestamp": "2026-09-05T09:00:00Z", "value": 23.0, "score": 0.12, "isAnomaly": false },
+  { "timestamp": "2026-09-05T10:00:00Z", "value": 29.4, "score": 0.91, "isAnomaly": true }
+]

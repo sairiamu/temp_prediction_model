@@ -1,0 +1,5 @@
+{
+  "regime": "Warm and humid",
+  "confidence": 0.94,
+  "signals": ["Temperature trend rising", "Humidity above seasonal baseline"]
+}
