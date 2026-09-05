@@ -1,5 +1,16 @@
 # 🌡️ Temperature Prediction Model
 
+> This repository is being rebuilt as a monorepo. The new dashboard scaffold lives in `apps/web`, and the importable ML package lives in `libs/ml-core`.
+
+## Monorepo quick start
+
+```bash
+npm install
+npm run dev:web
+```
+
+The dashboard currently uses typed mock JSON data. The FastAPI, optional Axum ingest service, generated shared types, and API-backed workflows are reserved for Phase 2.
+
 A simple machine learning project for predicting the **next temperature reading** from historical temperature and humidity sensor data.
 
 The project uses a **Random Forest Regressor** with time-based, lag, and rolling statistical features. It is designed as a practical introduction to applying machine learning to real-world sensor/time-series data.

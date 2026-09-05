@@ -1,0 +1,6 @@
+[
+  { "epoch": 1, "train": 0.92, "validation": 1.08 },
+  { "epoch": 2, "train": 0.61, "validation": 0.72 },
+  { "epoch": 3, "train": 0.42, "validation": 0.51 },
+  { "epoch": 4, "train": 0.31, "validation": 0.38 }
+]

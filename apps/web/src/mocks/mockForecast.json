@@ -1,0 +1,6 @@
+[
+  { "timestamp": "2026-09-05T08:00:00Z", "actual": 22.1, "predicted": 22.4, "lower": 21.5, "upper": 23.2 },
+  { "timestamp": "2026-09-05T09:00:00Z", "actual": 23.0, "predicted": 23.1, "lower": 22.2, "upper": 24.0 },
+  { "timestamp": "2026-09-05T10:00:00Z", "actual": 24.2, "predicted": 24.0, "lower": 23.1, "upper": 24.9 },
+  { "timestamp": "2026-09-05T11:00:00Z", "predicted": 25.1, "lower": 24.1, "upper": 26.1 }
+]
